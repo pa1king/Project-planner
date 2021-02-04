@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner heyyy",
+      "details": "Loreum ipsum sdfvbv",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Loreum ipsum",
+      "complete": true
+    },
+    {
+      "title": "hellooooo peopleee",
+      "details": "say HII to every oneeeee",
+      "complete": false,
+      "id": 5
+    },
+    {
+      "title": "yoooo",
+      "details": "hellooo",
+      "complete": false,
+      "id": 6
+    }
+  ]
+}
