@@ -4,6 +4,7 @@
       <button @click="updateFilter('completed')" :class="{active: current ==='completed'}">Completed</button>
       <button @click="updateFilter('ongoing')" :class="{active: current ==='ongoing'}">Ongoing</button>
   </nav>
+<!-- new project vue -->
 </template>
 
 <script>
